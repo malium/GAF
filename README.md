@@ -4,7 +4,7 @@ GAF (Greaper Application Framework) is a library which is an application framewo
 Right now this framework just supports Windows 7/8/8.1/10 in it's 64 bits, in the future will support MacOSX and Linux (at least Ubuntu and FreeBSD) and Windows with 32bit.
 
 # Why to use GAF?
-Well I'm sure that there are out there good application frameworks, but I've created this one in order to create a Youtube channel to teach programing and also to teach myself how everything works under the hood. GAF also is aimed to have the best performace possible (as far as I could) and give all the customization that someone may want.
+Well I'm sure that there are good application frameworks out there, but I've created this one in order to create a Youtube channel to teach programing and also to teach myself how everything works under the hood. GAF also is aimed to have the best performace possible (as far as I could) and give all the customization that someone may want.
 
 # This Framework includes:
 - A PHAL(Platfrom Hardware Abstraction Layer) which detects your compiler and it's version and your Operating System, it also create an abstraction of the basic types and provides some definitions and utilites that can benefit from the different OSs and compilers.
