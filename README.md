@@ -31,7 +31,7 @@ Well I'm sure that there are good application frameworks out there, but I've cre
 - A Window Manager, which helps you to create windows and also to manage them easily.
 - Also comes with a set of utilites.
 
-# Why is under Apache License?
+# Why is under Apache 2.0 License?
 Well I wanted to release it as an OpenSource project but also that when someone add some functionality or modify one, I will see what they have done, so I may ask them to include it to the official branch and keep this project forward.
 
 # What needs to be finished?
