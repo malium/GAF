@@ -1,0 +1,26 @@
+GREAPER APLICATION FRAMEWORK CHANGELOG
+
+GAF 0.0.1.2 (22/10/18)
+	[BUG] Property string value modification now logs as it should.
+	[BUG] Tests now show the correct value on the last test.
+	[BUG] Window resolution change now correctly display errors.
+	[BUG] EventManager was handling NullEventIDs.
+	[NEW] Added Window tests to the GAFTest.
+	[NEW] Added methods to send input to a given window.
+	[NEW] Added a method to set the mouse position.
+	[NEW] Added Input tests to the GAFTest.
+	[NEW] Now handles C++ exceptions correctly. (23/10/18)
+	[BUG] Solved a Directory bug, while erasing it on Windows 7. (23/10/18)
+	[BUG] Solved a CommandSystem bug, while UndoCommand. (23/10/18)
+	[NEW] Added ConcatTasks, allows tasks that call other tasks in order. (26/10/18)
+	[NEW] Added a method to get the current MousePosition without using an InputSystem.(26/10/18)
+	[NEW] Added a way of handling mouse XBUTTON1 and XBUTTON2 events. (27/10/18)
+	
+GAF 0.0.1.1 (21/10/18)
+	[BUG] Solved some FileSystem issues with FilePersimision.
+	[BUG] Solved some Directory issues with the naming.
+	[BUG] Solved an issue with the TaskManager that increased the underload performace by x10.
+	[NEW] Added a TestSystem and improved the initial progress of the application.
+	[NEW] Tests now log results automatically.
+	
+GAF 0.0.1.0 Initial Release
