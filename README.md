@@ -5,6 +5,8 @@ Right now this framework just supports Windows 7/8/8.1/10 in it's 64 bits, in th
 
 I've created this project in order to abstract all the OS stuff to help in my other projects.
 
+I wish it helps you too and with the help of the community improve this until it becomes a robust application framework library.
+
 # Why to use GAF?
 Well I'm sure that there are good application frameworks out there, but I've created this one in order to create a Youtube channel to teach programing and also to teach myself how everything works under the hood. GAF also is aimed to have the best performace possible (as far as I could) and give all the customization that someone may want.
 
@@ -44,3 +46,6 @@ Well I wanted to release it as an OpenSource project but also that when someone 
 
 # How to contribute?
 Well I will apreciate a lot any contribution to make this project better. I will provide a mail to ask me anything about it or if you want to comment something.
+
+# How to use GAF? 
+Well right now there are no tutorials on how to use it but soon will be. Stay tuned for the updates.
