@@ -41,6 +41,7 @@ Well I wanted to release it as an OpenSource project but also that when someone 
 - Finish to comment all.
 - Add more debbuging tools.
 - Make everything truly cross-platform.
+- Add other resources importer/exporters in order to make it more versatile.
 
 # How to contribute?
 Well I will apreciate a lot any contribution to make this project better. I will provide a mail to ask me anything about it or if you want to comment something.
