@@ -29,3 +29,10 @@ Right now this framework just supports Windows 7/8/8.1/10 in it's 64 bits, in th
 # Why is under Apache License?
 Well I wanted to release it as an OpenSource project but also that when someone add some functionality or modify one, I will see what they have done, so I may ask them to include it to the official branch and keep this project forward.
 
+# What needs to be finished?
+- ResourceManager needs to be tested.
+- ImageManager needs to be finished.
+- Add a test file which shows some kind of normal use of this application.
+- Finish to comment all.
+- Add more debbuging tools.
+- Make everything truly cross-platform.
